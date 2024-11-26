@@ -1,6 +1,5 @@
 Hello, I'm karlcanindo 👋
-I am a Graduate from Central Philippine University currently with a degree in BSIT or Bachelor of science in Information Technology. I am passionate about technology as a whole, and I love exploring and learning about new tech trends and advancements.
-
+Hello, I'm Karl Francis R. Canindo, a graduate of Central Philippine University with a Bachelor of Science in Information Technology (BSIT). I am passionate about technology and always eager to explore and learn about new tech trends and advancements. With a strong foundation in IT, I am excited to apply my skills and stay updated with the latest industry developments.
 🚀 Skills and Tools:
 Programming and Development Tools
 Visual Studio
