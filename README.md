@@ -1,13 +1,35 @@
 Hello, I'm karlcanindo 👋
-I am a 3rd year college student in Central Philippine University currently pursuing a degree in BSIT or Bachelor of science in Information Technology. I am passionate about technology as a whole, and I love exploring and learning about new tech trends and advancements.
+I am a Graduate from Central Philippine University currently with a degree in BSIT or Bachelor of science in Information Technology. I am passionate about technology as a whole, and I love exploring and learning about new tech trends and advancements.
 
 🚀 Skills and Tools:
-Programming languages: C#, Python, C++, JavaScript, HTML, CSS
-Operating System(s): Windows
-Development Tools: Visual Studio Code, Git, GitHub, PyCharm
-Databases: MySQL
+Programming and Development Tools
+Visual Studio
+Python (IDLE, Jupyter Notebook, PyCharm)
+R Studio
+HTML, CSS, JavaScript (using tools like Notepad++, VS Code)
+
+Data Science and Analysis Tools
+Tableau
+Microsoft Excel (Data Analysis and Visualization)
+
+Networking and IT Tools
+Cisco Packet Tracer
+
+Office Productivity Tools
+Microsoft Office Suite (Word, Excel, PowerPoint)
+
+Cybersecurity Basics
+Antivirus and basic security tools (e.g., Windows Defender, Avast)
+Understanding of firewalls and secure user access practices
+
+
+Operating Systems
+Windows
+Basic familiarity with Linux
+
+
 🌱 I'm currently learning:
-I am currently focusing on improving my skills on CyberSecurity as that is part of the lessons i am currently undertaking.
+Nothing Currently
 
 5 Fun facts about me:
 I am passionate about technology
